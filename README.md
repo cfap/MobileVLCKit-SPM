@@ -1,5 +1,7 @@
 # MobileVLCKit SPM Distribution
 
+from: https://download.videolan.org/pub/cocoapods/prod
+
 This package provides a Swift Package Manager distribution of the
 official MobileVLCKit XCFramework published by VideoLAN.
 
